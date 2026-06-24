@@ -9,5 +9,5 @@ https://docs.spacehuhn.com/blog/espwebtool/
 Download ESP8266 CP210 driver form this official website.
 https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
-The latest official driver of chip CH340/CH341, including windows, android, linux and macOS.
+The latest official driver of ESP8266 chip CH340/CH341, including windows, android, linux and macOS.
 https://github.com/SoldierJazz/CH341SER-Driver-For-ch340-ch341
