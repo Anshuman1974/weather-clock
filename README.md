@@ -4,7 +4,8 @@ DATA_PIN  13 on ESP32 // D7 on ESP8266
 
 CS_PIN    15 on ESP32 // D8 on ESP8266
 
-https://docs.spacehuhn.com/blog/espwebtool/
+Use this link to directly upload the code to your micro controller. You need to have .bin file.
+https://esptool.spacehuhn.com/
 
 Download ESP8266 CP210 driver form this official website.
 https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
