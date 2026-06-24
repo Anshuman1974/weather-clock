@@ -4,11 +4,11 @@ DATA_PIN  13 on ESP32 // D7 on ESP8266
 
 CS_PIN    15 on ESP32 // D8 on ESP8266
 
-Use this link to directly upload the code to your micro controller. You need to have .bin file.
-https://esptool.spacehuhn.com/
-
 Download ESP8266 CP210 driver form this official website.
 https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
 The latest official driver of ESP8266 chip CH340/CH341, including windows, android, linux and macOS.
 https://github.com/SoldierJazz/CH341SER-Driver-For-ch340-ch341
+
+Use this link to directly upload the code to your micro controller. You need to have .bin file.
+https://esptool.spacehuhn.com/
