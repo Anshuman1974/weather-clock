@@ -1,8 +1,8 @@
-CLK_PIN   14 on ESP32 // D5 on ESP8266
+CLK_PIN   14 on ESP32 /                / D5 on ESP8266
 
-DATA_PIN  13 on ESP32 // D7 on ESP8266
+DATA_PIN  13 on ESP32 /                / D7 on ESP8266
 
-CS_PIN    15 on ESP32 // D8 on ESP8266
+CS_PIN    15 on ESP32 /                / D8 on ESP8266
 
 Download ESP8266 CP210 driver form this official website.
 https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
