@@ -443,7 +443,7 @@ void handleOTAUpdate() {
   client.setInsecure(); 
   
   // Replace this URL with your RAW GitHub link
-  String firmwareURL = "https://github.com/Anshuman1974/weather-clock/blob/main/8266Clock_firmware.ino.bin"; 
+  String firmwareURL = "https://raw.githubusercontent.com/Anshuman1974/weather-clock/main/8266Clock_firmware.ino.bin"; 
   
   // Stop the Parola display matrix to free up processing power and prevent flickering
   if (P != nullptr) {
