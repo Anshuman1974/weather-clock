@@ -4,6 +4,8 @@ DATA_PIN  13 on ESP32 /                / D7 on ESP8266
 
 CS_PIN    15 on ESP32 /                / D8 on ESP8266
 
+DST switch between D6 and GND
+
 Download ESP8266 CP210 driver form this official website.
 https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
